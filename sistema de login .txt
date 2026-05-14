@@ -1,0 +1,3 @@
+Nome do usuario
+idade
+senha
